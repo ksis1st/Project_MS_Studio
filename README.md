@@ -1,7 +1,3 @@
----
-typora-root-url: images
----
-
 
 
 # Project_MS_Movie_Studio
@@ -60,23 +56,15 @@ Which location the movies should be the focused on?
 
 The current industry overview is suggesting a huge potential to get into the market but essentially that cant be the only factor to take a decision so if we were to take into consideration the analysis based on the data the chances of making a loss is the minimal or not there at all. The gap between the production budget and the profit is really good when worldwide gross is seen.
 
-
-
-![](/../README_imges/TN Budget Vs Profit2.png)
-
-![](/../README_imges/TN Budget to Profit Analysis.png)
-
-
-
-![Budget_Profit_100Years](/../README_imges/100yrs BudgetNProfitH.png)
-
-
+![](C:\Users\DELL\FLATIRON_LEARN\Project_MS_Studio\README_imges\TN Budget Vs Profit2.png)
 
 
 
 ##### The New Normal
 
 We all know COVID19 has changed the outlook all , with the new normal coming into picture and people having to stay at home the source of entertainment has become limited and Internet penetration in % Estimated share of the total population in any selected region using the internet is seeing an sharp increase. To Top it all the 5G technology is pretty close to reality giving a huge boost to the untapped market as well.
+
+![](C:\Users\DELL\FLATIRON_LEARN\Project_MS_Studio\README_imges\2000_2020 BudgetNProfitH.png)
 
 #### What should be the average runtime for maximum viewership  ?
 
@@ -90,9 +78,9 @@ Based on the exploration done on the distribution movie runtimes the following o
 
 
 
-As mentioned above the same thing can be observed when viewing the below two figures of runtime over the last ten years
+As mentioned above the same thing can be observed when viewing the below figure of runtime over the last ten years
 
-![Runtime Analysis3](C:\Users\DELL\FLATIRON_LEARN\Project_MS_Studio\images\Runtime Analysis3.png)![Runtime Analysis2](C:\Users\DELL\FLATIRON_LEARN\Project_MS_Studio\images\Runtime Analysis2.png)
+![Runtime Analysis3](C:\Users\DELL\FLATIRON_LEARN\Project_MS_Studio\images\Runtime Analysis3.png)
 
 
 
@@ -106,11 +94,9 @@ The data analysis suggest that the trend is in the worldwide market and if we we
 
 
 
+![](C:\Users\DELL\FLATIRON_LEARN\Project_MS_Studio\README_imges\Domestic and Foreign Gross.png)
 
 
-
-
-![Domestic and Gross Analysis](C:\Users\DELL\FLATIRON_LEARN\Project_MS_Studio\images\Domestic and Gross Analysis.png)
 
 
 
