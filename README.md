@@ -1,3 +1,7 @@
+---
+typora-root-url: images
+---
+
 
 
 # Project_MS_Movie_Studio
@@ -14,15 +18,19 @@
 
 ##### •   TMDB
 
-Total 9 data sets with total 53 Columns and 2368367 Rows
+Total 9 data sets used for cleaning with total 53 Columns and 2368367 Rows
 
-#### ![9 dataset TRTC](C:\Users\DELL\FLATIRON_LEARN\Project_MS_Studio\images\9 dataset TRTC.png)
+![Total 9 data sets used for cleaning with total 53 Columns and 2368367 Rows](/../README_imges/9 dataset TRTC.png)
+
+Shortlisted dataset for visualisation total 39 Columns and 181704 Rows
+
+#### ![Shortlisted dataset for visualisation total 39 Columns and 181704 Rows](/../README_imges/4 dataset Shrtlstd4vis.png)
 
 Assumptions Datasets used and other information pulled from the internet is good at the basic level of project analysis.
 
 
 
-#### Questions that i have attempted to addressed with the research:
+#### Questions that I have attempted to addressed with the research:
 
 Why Should MS Invest in Movie Studio?
 
@@ -52,11 +60,17 @@ Which location the movies should be the focused on?
 
 The current industry overview is suggesting a huge potential to get into the market but essentially that cant be the only factor to take a decision so if we were to take into consideration the analysis based on the data the chances of making a loss is the minimal or not there at all. The gap between the production budget and the profit is really good when worldwide gross is seen.
 
-![TN Budget Vs Profit](C:\Users\DELL\FLATIRON_LEARN\Project_MS_Studio\images\TN Budget Vs Profit.png)
+
+
+![](/../README_imges/TN Budget Vs Profit2.png)
+
+![](/../README_imges/TN Budget to Profit Analysis.png)
 
 
 
-![TN Budget Vs Profit2](C:\Users\DELL\FLATIRON_LEARN\Project_MS_Studio\images\TN Budget Vs Profit2.png)![TN Budget to Profit Analysis](C:\Users\DELL\FLATIRON_LEARN\Project_MS_Studio\images\TN Budget to Profit Analysis.png)
+![Budget_Profit_100Years](/../README_imges/100yrs BudgetNProfitH.png)
+
+
 
 
 
