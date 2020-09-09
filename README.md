@@ -72,7 +72,7 @@ Based on the exploration done on the distribution movie runtimes the following o
 
 
 
-![Runtime Analysis](README_imges\Runtime_Analysis.png)
+![](README_imges\Runtime_Analysis.png)
 
 
 
@@ -80,7 +80,7 @@ Based on the exploration done on the distribution movie runtimes the following o
 
 As mentioned above the same thing can be observed when viewing the below figure of runtime over the last ten years
 
-![Runtime Analysis3](README_imges\Runtime_Analysis3.png)
+![](README_imges\Runtime_Analysis3.png)
 
 
 
@@ -90,7 +90,7 @@ The data analysis suggest that the trend is in the worldwide market and if we we
 
 
 
-![Foreign gross and domestic gross](README_imges\Foreign_gross_and_domestic_gross.png)
+![](README_imges\Foreign_gross_and_domestic_gross.png)
 
 
 
