@@ -56,7 +56,7 @@ Which location the movies should be the focused on?
 
 The current industry overview is suggesting a huge potential to get into the market but essentially that cant be the only factor to take a decision so if we were to take into consideration the analysis based on the data the chances of making a loss is the minimal or not there at all. The gap between the production budget and the profit is really good when worldwide gross is seen.
 
-![](README_imges\TN_Budget_Vs_Profit2.png)
+![](README_imges/TN_Budget_Vs_Profit2.png)
 
 
 
@@ -64,7 +64,7 @@ The current industry overview is suggesting a huge potential to get into the mar
 
 We all know COVID19 has changed the outlook all , with the new normal coming into picture and people having to stay at home the source of entertainment has become limited and Internet penetration in % Estimated share of the total population in any selected region using the internet is seeing an sharp increase. To Top it all the 5G technology is pretty close to reality giving a huge boost to the untapped market as well.
 
-![](README_imges\2000_2020_BudgetNProfitH.png)
+![](README_imges/2000_2020_BudgetNProfitH.png)
 
 #### What should be the average runtime for maximum viewership  ?
 
@@ -72,7 +72,7 @@ Based on the exploration done on the distribution movie runtimes the following o
 
 
 
-![](README_imges\Runtime_Analysis.png)
+![](README_imges/Runtime_Analysis.png)
 
 
 
@@ -80,7 +80,7 @@ Based on the exploration done on the distribution movie runtimes the following o
 
 As mentioned above the same thing can be observed when viewing the below figure of runtime over the last ten years
 
-![](README_imges\Runtime_Analysis3.png)
+![](README_imges/Runtime_Analysis3.png)
 
 
 
@@ -90,11 +90,11 @@ The data analysis suggest that the trend is in the worldwide market and if we we
 
 
 
-![](README_imges\Foreign_gross_and_domestic_gross.png)
+![](README_imges/Foreign_gross_and_domestic_gross.png)
 
 
 
-![](README_imges\Domestic_and_ForeignGross.png)
+![](README_imges/Domestic_and_ForeignGross.png)
 
 
 
