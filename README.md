@@ -16,7 +16,7 @@
 
 Total 9 data sets used for cleaning with total 53 Columns and 2368367 Rows
 
-![](/../README_imges/9 dataset TRTC.png)
+![](README_imges/9 dataset TRTC.png)
 
 Shortlisted dataset for visualisation total 39 Columns and 181704 Rows
 
